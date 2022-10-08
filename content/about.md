@@ -1,10 +1,9 @@
 +++
-title = "I'm Toma Nistor"
-date = 2017-06-28T12:36:41-07:00
-draft = false
-+++
+date = 2017-06-28T19:36:41Z
+title = "FIG MFG"
 
-### A **web developer** in San Diego, California.
++++
+Architectural Wall & Ceiling Panel Consultancy
 
 ```js
 let languages = ['javascript', 'ruby'],
